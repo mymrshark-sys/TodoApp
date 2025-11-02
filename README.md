@@ -169,3 +169,4 @@ The app will now be running at [http://localhost:5173/](http://localhost:5173/).
 
 Made with ❤️ by [maciekt07](https://github.com/maciekt07), licensed under [MIT](https://github.com/maciekt07/TodoApp/blob/main/LICENSE).
 # TodoApp
+# TodoApp
